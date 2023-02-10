@@ -1,4 +1,4 @@
-# TRANSFORMER MODELS
+# 1. TRANSFORMER MODELS
 ### What is the 'Transformer'?
 
 NLP는 말 그대로 Natural Language Processing 즉, 자연어 처리를 말한다. 컴퓨터는 사람의 말을 알아듣지 못한다. 따라서 우리 사람의 말을 컴퓨터가 알아들을 수 있도록 도와주는 것이
