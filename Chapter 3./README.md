@@ -1,4 +1,4 @@
-# FINE-TUNING A PRETRAINED MODEL
+# 3. FINE-TUNING A PRETRAINED MODEL
 
 Chapter 2.에서 tokenizer와 pre-trained model을 사용하여 예측을 진행하는 방법에 대해 알아보았다.
 하지만, 만약 자기 자신의 데이터셋에 대해 pre-trained model을 fine-tune하려면 어떻게 해야 할까?
